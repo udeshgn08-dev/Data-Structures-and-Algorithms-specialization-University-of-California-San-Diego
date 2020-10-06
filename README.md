@@ -7,93 +7,97 @@ please note that solutions to different questions are provided in python languag
 alt="https://www.coursera.org/specializations/data-structures-algorithms" width="250" height="250" border="10" align="center"/></a>
 </p>
 
-## [Algorithmic Toolbox, course 1](https://github.com/sudheernaidu53/Data-Structures-and-Algorithms-specialization-University-of-California-San-Diego/tree/master/Algorithmic%20toolbox%20course%201)  
+## [Algorithmic Toolbox, course 1](https://github.com/sudheernaidu53/Data-Structures-and-Algorithms-specialization-University-of-California-San-Diego/tree/master/course%201%20-%20Algorithmic%20toolbox)  
 This course content can be found [here](https://www.coursera.org/learn/algorithmic-toolbox/) on coursera
 >### Week 1: Programming challenges
->>[questions and solutions](https://github.com/sudheernaidu53/Data-Structures-and-Algorithms-specialization-University-of-California-San-Diego/tree/master/Algorithmic%20toolbox%20course%201/week1_programming_challenges)   
+>>[questions and solutions](https://github.com/sudheernaidu53/Data-Structures-and-Algorithms-specialization-University-of-California-San-Diego/tree/master/course%201%20-%20Algorithmic%20toolbox/week1_programming_challenges)   
 
 
 >### Week 2: Algorithmic_warmup
->>[questions and solutions](https://github.com/sudheernaidu53/Data-Structures-and-Algorithms-specialization-University-of-California-San-Diego/tree/master/Algorithmic%20toolbox%20course%201/week2_algorithmic_warmup)  
+>>[questions and solutions](https://github.com/sudheernaidu53/Data-Structures-and-Algorithms-specialization-University-of-California-San-Diego/tree/master/course%201%20-%20Algorithmic%20toolbox/week2_algorithmic_warmup)  
 
 
 >### Week 3: Greedy algorithms
->>[questions and solutions](https://github.com/sudheernaidu53/Data-Structures-and-Algorithms-specialization-University-of-California-San-Diego/tree/master/Algorithmic%20toolbox%20course%201/week3_greedy_algorithms)  
+>>[questions and solutions](https://github.com/sudheernaidu53/Data-Structures-and-Algorithms-specialization-University-of-California-San-Diego/tree/master/course%201%20-%20Algorithmic%20toolbox/week3_greedy_algorithms)  
 
 
 >### Week 4: Divide and conquer
->>[questions and solutions](https://github.com/sudheernaidu53/Data-Structures-and-Algorithms-specialization-University-of-California-San-Diego/tree/master/Algorithmic%20toolbox%20course%201/week4_divide_and_conquer)  
+>>[questions and solutions](https://github.com/sudheernaidu53/Data-Structures-and-Algorithms-specialization-University-of-California-San-Diego/tree/master/course%201%20-%20Algorithmic%20toolbox/week4_divide_and_conquer)  
 
 
 >### Week 5: Dynamic programming 1
->>[questions and solutions](https://github.com/sudheernaidu53/Data-Structures-and-Algorithms-specialization-University-of-California-San-Diego/tree/master/Algorithmic%20toolbox%20course%201/week5_dynamic_programming1)  
+>>[questions and solutions](https://github.com/sudheernaidu53/Data-Structures-and-Algorithms-specialization-University-of-California-San-Diego/tree/master/course%201%20-%20Algorithmic%20toolbox/week5_dynamic_programming1)  
 
 >### Week 6: Dynamic programming 2
->>[questions and solutions](https://github.com/sudheernaidu53/Data-Structures-and-Algorithms-specialization-University-of-California-San-Diego/tree/master/Algorithmic%20toolbox%20course%201/week6_dynamic_programming2)  
+>>[questions and solutions](https://github.com/sudheernaidu53/Data-Structures-and-Algorithms-specialization-University-of-California-San-Diego/tree/master/course%201%20-%20Algorithmic%20toolbox/week6_dynamic_programming2)  
 
->notes about [dynamic programming](https://github.com/sudheernaidu53/Data-Structures-and-Algorithms-specialization-University-of-California-San-Diego/blob/master/Algorithmic%20toolbox%20course%201/dynprog.pdf)  
-and the [book](https://github.com/sudheernaidu53/Data-Structures-and-Algorithms-specialization-University-of-California-San-Diego/blob/master/Algorithmic%20toolbox%20course%201/Alexander%20S.%20Kulikov%2C%20Pavel%20Pevzner%20-%20Learning%20Algorithms%20Through%20Programming%20and%20Puzzle%20Solving%20(2018%2C%20Leanpub).pdf) from instructors
+>notes about [dynamic programming](https://github.com/sudheernaidu53/Data-Structures-and-Algorithms-specialization-University-of-California-San-Diego/blob/master/course%201%20-%20Algorithmic%20toolbox/dynprog.pdf)  
 
-## [Data Structures, course 2](https://github.com/sudheernaidu53/Data-Structures-and-Algorithms-specialization-University-of-California-San-Diego/tree/master/Data%20Structures%20course%202)  
+
+## [Data Structures, course 2](https://github.com/sudheernaidu53/Data-Structures-and-Algorithms-specialization-University-of-California-San-Diego/tree/master/course%202%20-%20Data%20Structures)  
 This course content can be found [here](https://www.coursera.org/learn/data-structures?specialization=data-structures-algorithms) on coursera
 >### Week 1: Basic data structures
->>[questions and solutions](https://github.com/sudheernaidu53/Data-Structures-and-Algorithms-specialization-University-of-California-San-Diego/tree/master/Data%20Structures%20course%202/week1_basic_data_structures)   
+>>[questions and solutions](https://github.com/sudheernaidu53/Data-Structures-and-Algorithms-specialization-University-of-California-San-Diego/tree/master/course%202%20-%20Data%20Structures/week1_basic_data_structures)   
 
 
 >### Week 2: Amortized analysis
->>[questions and solutions](https://github.com/sudheernaidu53/Data-Structures-and-Algorithms-specialization-University-of-California-San-Diego/tree/master/Data%20Structures%20course%202/week2%20amortized%20analysis)  
+>>[questions and solutions](https://github.com/sudheernaidu53/Data-Structures-and-Algorithms-specialization-University-of-California-San-Diego/tree/master/course%202%20-%20Data%20Structures/week2%20amortized%20analysis)  
 
 
 >### Week 3: Priority queues and Disjoint sets
->>[questions and solutions](https://github.com/sudheernaidu53/Data-Structures-and-Algorithms-specialization-University-of-California-San-Diego/tree/master/Data%20Structures%20course%202/week3%20assignment%202_priority_queues_and_disjoint_sets)  
+>>[questions and solutions](https://github.com/sudheernaidu53/Data-Structures-and-Algorithms-specialization-University-of-California-San-Diego/tree/master/course%202%20-%20Data%20Structures/week3%20assignment%202_priority_queues_and_disjoint_sets)  
 
 
 >### Week 4: Hash tables
->>[questions and solutions](https://github.com/sudheernaidu53/Data-Structures-and-Algorithms-specialization-University-of-California-San-Diego/tree/master/Data%20Structures%20course%202/week4%20assignment%203_hash_tables)  
+>>[questions and solutions](https://github.com/sudheernaidu53/Data-Structures-and-Algorithms-specialization-University-of-California-San-Diego/tree/master/course%202%20-%20Data%20Structures/week4%20assignment%203_hash_tables)  
 
 
 >### Week 5 and Week 6: Binary Search trees
->>[questions and solutions](https://github.com/sudheernaidu53/Data-Structures-and-Algorithms-specialization-University-of-California-San-Diego/tree/master/Data%20Structures%20course%202/week5%20%26%206%20assignment%204%20_binary_search_trees)  
+>>[questions and solutions](https://github.com/sudheernaidu53/Data-Structures-and-Algorithms-specialization-University-of-California-San-Diego/tree/master/course%202%20-%20Data%20Structures/week5%20%26%206%20assignment%204%20_binary_search_trees)  
 
 
 
-## [Algorithms on Graphs, course 3](https://github.com/sudheernaidu53/Data-Structures-and-Algorithms-specialization-University-of-California-San-Diego/tree/master/algorithms%20on%20graphs-%20course%203)  
+## [Algorithms on Graphs, course 3](https://github.com/sudheernaidu53/Data-Structures-and-Algorithms-specialization-University-of-California-San-Diego/tree/master/course%203%20-%20Algorithms%20on%20graphs)  
 This course content can be found [here](https://www.coursera.org/learn/algorithms-on-graphs?specialization=data-structures-algorithms) on coursera
 >### Week 1: Decomposition of Graphs 1
->>[questions and solutions](https://github.com/sudheernaidu53/Data-Structures-and-Algorithms-specialization-University-of-California-San-Diego/tree/master/algorithms%20on%20graphs-%20course%203/week1_decomposition1)   
-
+>>[questions and solutions](https://github.com/sudheernaidu53/Data-Structures-and-Algorithms-specialization-University-of-California-San-Diego/tree/master/course%203%20-%20Algorithms%20on%20graphs/week1_decomposition1)   
 >>`Study Notes`  
->>>[Graph basics](https://github.com/sudheernaidu53/Data-Structures-and-Algorithms-specialization-University-of-California-San-Diego/blob/master/algorithms%20on%20graphs-%20course%203/1.%20Graph%20Basics.md)  
->>>[Exploring undirected graphs](https://github.com/sudheernaidu53/Data-Structures-and-Algorithms-specialization-University-of-California-San-Diego/blob/master/algorithms%20on%20graphs-%20course%203/2.%20Exploring%20Undirected%20Graphs.md)
+>>>[Graph basics](https://github.com/sudheernaidu53/Data-Structures-and-Algorithms-specialization-University-of-California-San-Diego/blob/master/course%203%20-%20Algorithms%20on%20graphs/1.%20Graph%20Basics.md)  
+>>>[Exploring undirected graphs](https://github.com/sudheernaidu53/Data-Structures-and-Algorithms-specialization-University-of-California-San-Diego/blob/master/course%203%20-%20Algorithms%20on%20graphs/2.%20Exploring%20Undirected%20Graphs.md)
 
 >### Week 2: Decomposition of Graphs 2
->>[questions and solutions](https://github.com/sudheernaidu53/Data-Structures-and-Algorithms-specialization-University-of-California-San-Diego/tree/master/algorithms%20on%20graphs-%20course%203/week2_decomposition2)  
+>>[questions and solutions](https://github.com/sudheernaidu53/Data-Structures-and-Algorithms-specialization-University-of-California-San-Diego/tree/master/course%203%20-%20Algorithms%20on%20graphs/week2_decomposition2)  
 
 >>`Study Notes`  
->>>[Directed Graphs](https://github.com/sudheernaidu53/Data-Structures-and-Algorithms-specialization-University-of-California-San-Diego/blob/master/algorithms%20on%20graphs-%20course%203/Directed%20Graphs.md)
+>>>[Directed Graphs](https://github.com/sudheernaidu53/Data-Structures-and-Algorithms-specialization-University-of-California-San-Diego/blob/master/course%203%20-%20Algorithms%20on%20graphs/Directed%20Graphs.md)
 
 >### Week 3: Paths in Graphs 1
->>[questions and solutions](https://github.com/sudheernaidu53/Data-Structures-and-Algorithms-specialization-University-of-California-San-Diego/tree/master/algorithms%20on%20graphs-%20course%203/week3_paths1)  
+>>[questions and solutions](https://github.com/sudheernaidu53/Data-Structures-and-Algorithms-specialization-University-of-California-San-Diego/tree/master/course%203%20-%20Algorithms%20on%20graphs/week3_paths1)  
 
 >>`Study Notes`  
->>>[Most Direct Route](https://github.com/sudheernaidu53/Data-Structures-and-Algorithms-specialization-University-of-California-San-Diego/blob/master/algorithms%20on%20graphs-%20course%203/Most%20Direct%20Route.md)  
+>>>[Most Direct Route](https://github.com/sudheernaidu53/Data-Structures-and-Algorithms-specialization-University-of-California-San-Diego/blob/master/course%203%20-%20Algorithms%20on%20graphs/Most%20Direct%20Route.md)  
 
 
 >### Week 4: Paths in Graphs 2
->>[questions and solutions](https://github.com/sudheernaidu53/Data-Structures-and-Algorithms-specialization-University-of-California-San-Diego/tree/master/algorithms%20on%20graphs-%20course%203/week4_paths2)  
+>>[questions and solutions](https://github.com/sudheernaidu53/Data-Structures-and-Algorithms-specialization-University-of-California-San-Diego/tree/master/course%203%20-%20Algorithms%20on%20graphs/week4_paths2)  
 
 >>`Study Notes`  
->>>[Fastest Route](https://github.com/sudheernaidu53/Data-Structures-and-Algorithms-specialization-University-of-California-San-Diego/blob/master/algorithms%20on%20graphs-%20course%203/1.%20Fastest%20Route.md)  
->>>[Currency Exchange](https://github.com/sudheernaidu53/Data-Structures-and-Algorithms-specialization-University-of-California-San-Diego/blob/master/algorithms%20on%20graphs-%20course%203/2.%20Currency%20Exchange.md)
+>>>[Fastest Route](https://github.com/sudheernaidu53/Data-Structures-and-Algorithms-specialization-University-of-California-San-Diego/blob/master/course%203%20-%20Algorithms%20on%20graphs/1.%20Fastest%20Route.md)  
+>>>[Currency Exchange](https://github.com/sudheernaidu53/Data-Structures-and-Algorithms-specialization-University-of-California-San-Diego/blob/master/course%203%20-%20Algorithms%20on%20graphs/2.%20Currency%20Exchange.md)
 
 
 >### Week 5: Minimum Spanning Trees
->>[questions and solutions](https://github.com/sudheernaidu53/Data-Structures-and-Algorithms-specialization-University-of-California-San-Diego/tree/master/algorithms%20on%20graphs-%20course%203/week5_mst)  
+>>[questions and solutions](https://github.com/sudheernaidu53/Data-Structures-and-Algorithms-specialization-University-of-California-San-Diego/tree/master/course%203%20-%20Algorithms%20on%20graphs/week5_mst)  
 
 >>`Study Notes`  
->>>[Minimum Spanning Trees](https://github.com/sudheernaidu53/Data-Structures-and-Algorithms-specialization-University-of-California-San-Diego/blob/master/algorithms%20on%20graphs-%20course%203/Minimum%20Spanning%20Trees.md)
+>>>[Minimum Spanning Trees](https://github.com/sudheernaidu53/Data-Structures-and-Algorithms-specialization-University-of-California-San-Diego/blob/master/course%203%20-%20Algorithms%20on%20graphs/Minimum%20Spanning%20Trees.md)
+
 
 thanks for the studynotes [akueisara](https://github.com/akueisara/algograph)
+
+## [Algorithms on strings, course 4](https://github.com/sudheernaidu53/Data-Structures-and-Algorithms-specialization-University-of-California-San-Diego/tree/master/course%204%20-%20Algorithms%20on%20strings)  
+This course content can be found [here](https://www.coursera.org/learn/algorithms-on-strings?specialization=data-structures-algorithms) on coursera
+The solutions are little untidy and only few of the assignments are solved(enough to pass), not all.
 
 Todo  
 Data structures   
@@ -109,3 +113,7 @@ ALgorithmic toolbox
 graph algorithms
 >week 1
 .ipynb files are deleted, re-upload them
+
+algorithms on strings
+* improve readme
+* find unsolved problems and solve.
