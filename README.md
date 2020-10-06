@@ -101,7 +101,7 @@ The solutions are little untidy and only few of the assignments are solved(enoug
 #### running test cases provided in assignments  
 Coursera provides test cases under "tests" folder for some of the assignments. Code is not written for all assignments to read and check if your code passes all the test cases. But as an example, I wrote it for one assignment    
 
-I added few lines of code at the end of the file (under "test if everything in tests folder passes" heading) https://github.com/sudheernaidu53/Data-Structures-and-Algorithms-specialization-University-of-California-San-Diego/blob/master/course%202%20-%20Data%20Structures/week1_basic_data_structures/check_brackets_in_code/match%20brackets%20-%20good%2C%20pass.ipynb  
+I added few lines of code at the end of the file (under "test if everything in tests folder passes" heading) [match brackets](https://github.com/sudheernaidu53/Data-Structures-and-Algorithms-specialization-University-of-California-San-Diego/blob/master/course%202%20-%20Data%20Structures/week1_basic_data_structures/check_brackets_in_code/match%20brackets%20-%20good%2C%20pass.ipynb)  
 `def test_function():`  
 That snippet of code reads test files, apply your function and compare your result and the actual result. It can be tweaked according to the need/assignment  
 
