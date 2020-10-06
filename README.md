@@ -92,11 +92,10 @@ This course content can be found [here](https://www.coursera.org/learn/algorithm
 >>`Study Notes`  
 >>>[Minimum Spanning Trees](https://github.com/sudheernaidu53/Data-Structures-and-Algorithms-specialization-University-of-California-San-Diego/blob/master/course%203%20-%20Algorithms%20on%20graphs/Minimum%20Spanning%20Trees.md)
 
-
 thanks for the studynotes [akueisara](https://github.com/akueisara/algograph)
 
 ## [Algorithms on strings, course 4](https://github.com/sudheernaidu53/Data-Structures-and-Algorithms-specialization-University-of-California-San-Diego/tree/master/course%204%20-%20Algorithms%20on%20strings)  
-This course content can be found [here](https://www.coursera.org/learn/algorithms-on-strings?specialization=data-structures-algorithms) on coursera
+This course content can be found [here](https://www.coursera.org/learn/algorithms-on-strings?specialization=data-structures-algorithms) on coursera. 
 The solutions are little untidy and only few of the assignments are solved(enough to pass), not all.
 
 Todo  
